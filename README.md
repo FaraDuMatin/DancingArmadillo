@@ -10,4 +10,7 @@ This project was created for the IFT3355 class.
 - **Middle controller**: Controlled with `w`.
 - **Right controller**: Controlled with `e`.
 
+## Try it
+https://faradumatin.github.io/DancingArmadillo/
+
 
